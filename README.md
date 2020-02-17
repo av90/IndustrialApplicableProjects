@@ -3,8 +3,9 @@ Projects that have a Industrial Application
 
 |Projets|Description|
 |--- |--- |
-|01. Mall Customer|classify a individual into Target or Non-Target so that we can selectively send campaign to them|
+|01. Mall Customer|Classify a individual into Target or Non-Target so that we can selectively focus on sending personalized campaign to them|
 |02. FashionClassClassification| With the help of image processing, help an Online retailer to selectively recommend fashion items a person is intrested in|
 |03. MobileAppSubscriptionAnalysis|Classify the customer if they belong to "Unlikely" & "Very-Likely" so that we can take corrective action for customer who are likely to end their subscription|
-|04. MinimizingChurnRateInSubscriptionByFinancialAnalysis| Do the analysis of data from a financial mobile app to minimize the churn rate|
+|04. MinimizingChurnRateInSubscriptionByFinancialAnalysis| Do the analysis of data from a Financial mobile app to minimize the churn rate|
 |05. e-SigningLoanOffersClassification|Analyzing dataset from P2P company to check its users data is good enough to enroll our companies e-signing loan page|
+|06. CreditCardFraudDetection|Use of a Neural Network to predict a fraudulent credit card transaction|
